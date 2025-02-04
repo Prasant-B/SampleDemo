@@ -1,3 +1,4 @@
+package JavaConcepts;
 public class InheritanceIllustrationChild extends InheritanceIllustrationParent {
     
     public void m5() {

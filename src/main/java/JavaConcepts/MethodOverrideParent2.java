@@ -1,3 +1,4 @@
+package JavaConcepts;
 public class MethodOverrideParent2 {
     void m1() {
         System.out.println("From Parent default type modifier");

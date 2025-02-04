@@ -1,3 +1,4 @@
+package JavaConcepts;
 public class MethodOverrideParent3 {
     void m1() throws Exception{
         System.out.println("From Parent exception thrown");

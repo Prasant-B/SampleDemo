@@ -1,3 +1,4 @@
+package JavaConcepts;
 public class Encapsulation {
     
     private String name;

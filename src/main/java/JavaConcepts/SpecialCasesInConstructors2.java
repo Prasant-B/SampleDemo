@@ -1,3 +1,4 @@
+package JavaConcepts;
 public class SpecialCasesInConstructors2 {
     
     SpecialCasesInConstructors2() {

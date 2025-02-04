@@ -1,3 +1,4 @@
+package JavaConcepts;
 public class MethodOverrideChild2 extends MethodOverrideParent2 {
     protected void m1() {
         System.out.println("From child protected type modifier");
