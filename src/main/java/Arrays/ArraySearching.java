@@ -1,7 +1,8 @@
 package Arrays;
+
 import java.util.Scanner;
 
-public class ArraySearch {
+public class ArraySearching {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -13,7 +14,6 @@ public class ArraySearch {
         arraySearchFunc(arr, x);
         sc.close();
     }
-
     public static int arraySearchFunc(int[] testarr, int x) {
         int index = -1;
         int i = 0;
